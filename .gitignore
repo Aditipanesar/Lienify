@@ -1,0 +1,14 @@
+# frontend
+lienify-frontend/node_modules/
+lienify-frontend/dist/
+lienify-frontend/build/
+
+# backend
+url-shortener-sb/target/
+url-shortener-sb/*.log
+
+# env
+.env
+
+# mac
+.DS_Store
