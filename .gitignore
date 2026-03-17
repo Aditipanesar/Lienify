@@ -12,3 +12,6 @@ url-shortener-sb/*.log
 
 # mac
 .DS_Store
+
+url-shortener-sb/src/main/resources/application.properties
+url-shortener-sb/.env.prod
