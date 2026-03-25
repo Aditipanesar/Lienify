@@ -31,6 +31,5 @@ Backend: https://lienify.onrender.com
 ----------------------------------------------
 
 ## 🚧 Future Improvements
-- Custom short URLs
 - QR code generation
 - Advanced analytics dashboard
